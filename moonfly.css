@@ -32,7 +32,7 @@
   --mf-fg-faint: #444444;   /* grey27 — placeholders                   */
 
   /* Accent colors (moonfly) */
-  --mf-blue:      #80a0ff;
+  --mf-blue:      #adadf3;   /* soft pastel lavender — primary accent    */
   --mf-sky:       #74b2ff;
   --mf-turquoise: #79dac8;
   --mf-emerald:   #36c692;
@@ -95,9 +95,9 @@
 
   /* Semantic colors */
   --sn-stylekit-info-color:            var(--mf-blue);
-  --sn-stylekit-info-color-darkened:   #6b8be0;
+  --sn-stylekit-info-color-darkened:   #9090d0;
   --sn-stylekit-info-contrast-color:   var(--mf-black);
-  --sn-stylekit-info-backdrop-color:   #80a0ff18;
+  --sn-stylekit-info-backdrop-color:   #adadf318;
 
   --sn-stylekit-success-color:          var(--mf-emerald);
   --sn-stylekit-success-contrast-color: var(--mf-black);
@@ -174,7 +174,7 @@
 
   /* Text selection — moonfly sky on near-black gives good contrast */
   --text-selection-color:            var(--mf-black);
-  --text-selection-background-color: var(--mf-sky);
+  --text-selection-background-color: var(--mf-blue);
 
   /* Note list sync-progress bar */
   --note-preview-progress-color:                     var(--mf-blue);

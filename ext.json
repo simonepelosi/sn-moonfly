@@ -2,6 +2,8 @@
   "identifier": "com.simonepelosi.moonfly",
   "name": "Moonfly",
   "content_type": "SN|Theme",
-  "version": "1.0.0",
-  "url": "https://simonepelosi.github.io/sn-moonfly/moonfly.css"
+  "version": "1.1.0",
+  "url": "https://simonepelosi.github.io/sn-moonfly/moonfly.css",
+  "download_url": "https://github.com/simonepelosi/sn-moonfly/archive/refs/tags/v1.1.0.zip",
+  "latest_url": "https://simonepelosi.github.io/sn-moonfly/ext.json"
 }
