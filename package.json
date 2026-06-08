@@ -1,0 +1,20 @@
+{
+  "name": "sn-moonfly-theme",
+  "version": "1.0.0",
+  "description": "Dark charcoal Standard Notes theme inspired by moonfly, optimized for AMOLED",
+  "main": "moonfly.css",
+  "license": "MIT",
+  "sn": {
+    "name": "Moonfly",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "main": "moonfly.css",
+    "showInGallery": true,
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#80a0ff",
+      "foreground_color": "#080808",
+      "border_color": "#80a0ff"
+    }
+  }
+}
